@@ -9,8 +9,8 @@
   <a href="#deploy-to-azure">Deploy</a> •
   <a href="#ingest-metadata">Ingest</a> •
   <a href="#architecture">Architecture</a> •
-  <a href="#todo">To Do</a> 
-  <a href="#links">Links</a> •
+  <a href="#todo">To Do</a> •
+  <a href="#links">Links</a>
 </p>
 
 This framework is based on the DataHub ingestion architecture which _"supports an extremely flexible ingestion architecture that can support push, pull, asynchronous and synchronous models"_. For the time being, this Framework only supports aynchrounous communication. 
