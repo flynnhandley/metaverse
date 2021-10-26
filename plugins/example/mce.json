@@ -1,0 +1,32 @@
+{
+    "auditHeader": null,
+    "proposedSnapshot": {
+      "com.acme.metaverse.metadata.snapshot.CorpUserSnapshot": {
+        "urn": "urn:li:corpuser:fhandley",
+        "aspects": [
+          {
+            "com.acme.metaverse.identity.CorpUserInfo": {
+              "active": true,
+              "displayName": {
+                "string": "Flynn Handley"
+              },
+              "email": "flynnhandley@gmail.com",
+              "title": {
+                "string": "Principle Engineer"
+              },
+              "managerUrn": null,
+              "departmentId": null,
+              "departmentName": null,
+              "firstName": null,
+              "lastName": null,
+              "fullName": {
+                "string": "Harshal Sheth"
+              },
+              "countryCode": null
+            }
+          }
+        ]
+      }
+    },
+    "proposedDelta": null
+  }

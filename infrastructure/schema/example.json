@@ -1,0 +1,15 @@
+{
+    "type": "record",
+    "name": "metadata",
+    "namespace": "com.azure.schemaregistry.example",
+    "fields": [
+        {
+            "name": "name",
+            "type": "string"
+        },
+        {
+            "name": "dataClassification",
+            "type": "int"
+        }
+    ]
+}
